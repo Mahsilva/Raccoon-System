@@ -1,6 +1,4 @@
 # Raccoon-System
-# Client &amp; Booking Management System
-
 
 # Client & Booking Management System
 
